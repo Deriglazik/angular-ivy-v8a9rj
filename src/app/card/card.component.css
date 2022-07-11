@@ -1,0 +1,16 @@
+.card, .info {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 1rem 1rem;
+  border:  3px dashed rgb(62, 198, 202);
+  margin: 1rem;
+}
+h3{
+  text-align: center;
+  color: darkblue;
+  
+}
+
+p{
+  margin-bottom: 2rem;
+
+}
